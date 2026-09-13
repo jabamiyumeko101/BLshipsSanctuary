@@ -16,23 +16,6 @@ A cozy fan-made website celebrating unforgettable BL couples from webtoons, anim
 * HTML
 * GitHub Pages
 
-## Project Structure
-
-BLshipsSanctuary/
-├── index.html
-├── README.md
-├── sss.jpg
-├── sssbl.jpg
-├── sign.jpg
-├── bjalex.jpg
-├── hualian.jpg
-├── hereuare.jpg
-├── ivantill.jpg
-├── allaboutlust.jpg
-├── allaboutlust1.jpg
-├── sketch.jpg
-├── yoi.jpg
-└── 19days.jpg
 
 ## Disclaimer
 
